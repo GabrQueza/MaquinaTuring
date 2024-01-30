@@ -1,9 +1,5 @@
 Turing Machine com multiplas trilhas (multiple tracks) feito em Python.
-=============================================================================================
-Deve-se	incluir	um arquivo README na raiz do projeto com o(s) nome(s) do(s)
-desenvolvedor(es) com instruções claras de como	compilar e executar o programa implementado.
-=============================================================================================
-
+--------------------------------------------------------------------------------------------
 Matheus Freire Henrique Fonseca 
 
 
