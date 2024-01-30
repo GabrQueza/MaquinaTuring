@@ -1,4 +1,3 @@
-# MaquinaTuring
 Turing Machine com multiplas trilhas (multiple tracks) feito em Python.
 =============================================================================================
 Deve-se	incluir	um arquivo README na raiz do projeto com o(s) nome(s) do(s)
